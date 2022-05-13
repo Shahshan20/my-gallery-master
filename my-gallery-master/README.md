@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">/
+<h1 align="center">
 my-gallery-master
 </h1>
 
